@@ -15,7 +15,7 @@ namespace WebApplicationRG.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = " Rishabh Garg's page.";
+            ViewBag.Message = " Rishabh Garg's updated  page.";
 
             return View();
         }
